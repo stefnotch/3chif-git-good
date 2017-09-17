@@ -23,6 +23,8 @@ It looks kinda like this:
 ### Commits and Branches  
 
 TODO
+Here is a nice guide: http://patrickzahnd.ch/blog.html#gitflow
+
 
 <br>
 <h2> <a href="https://www.gitkraken.com/"> GitKraken </a> </h2>
