@@ -11,13 +11,17 @@ After you change a bit of stuff, you have to **commit** it with GitHub for Deskt
 Then, when you are happy with everything, you **push** it to the server. (Upload)  
 After you **pushed** your code to the server, everybody else has to **pull** it. (Download)
 
+<br>
+
 It looks kinda like this:
 ![Imgur](https://i.imgur.com/c4skNTu.png?1)
 
 [**Here is a more in depth version**](http://patrickzahnd.ch/uploads/git-transport-v1.png)  
 
 <br>
-### Commits and Branches
+
+### Commits and Branches  
+
 TODO
 
 <br>
@@ -28,7 +32,7 @@ TODO
 2. Install it
 3. Sign in using your GitHub account OR create a GitKraken account
 
-###  Cloning a repository
+### Cloning a repository
 
 1. Get the link to the remote repository:
    1. Go to the repository on GitHub
