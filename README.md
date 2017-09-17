@@ -21,7 +21,7 @@ It looks kinda like this:
 TODO
 
 <br>
-## [GitKraken](https://www.gitkraken.com/)
+<h2> <a href="https://www.gitkraken.com/"> GitKraken </a> </h2>
 
 ### Setting it up
 1. Download it  
@@ -45,7 +45,7 @@ TODO
 ![Imgur](https://i.imgur.com/6VU34r0.png)
 
 <br>
-## [GitHub Desktop](https://desktop.github.com/)
+<h2> <a href="https://desktop.github.com/"> GitHub Desktop </a> </h2>
 
 ### Setting it up
 1. Download it  
