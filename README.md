@@ -22,7 +22,6 @@ It looks kinda like this:
 
 ### Commits and Branches  
 
-TODO
 Here is a nice guide: http://patrickzahnd.ch/blog.html#gitflow
 
 
