@@ -48,21 +48,3 @@ Here is a nice guide: http://patrickzahnd.ch/blog.html#gitflow
 
 ### The Interface
 ![Imgur](https://i.imgur.com/6VU34r0.png)
-
-<br>
-<h2> <a href="https://desktop.github.com/"> GitHub Desktop </a> </h2>
-
-### Setting it up
-1. Download it  
-2. Install it
-3. Sign in using your GitHub account
-
-###  Cloning a repository
-1. Open GitHub Desktop
-2. Press on `File`
-3. `Clone Repository...` (Ctrl+Shift+O)
-4. The repository you want should be visible in the `GitHub.com` tab
-5. Press on it
-
-### The Interface
-![Imgur](https://i.imgur.com/jzxR0bx.png)
