@@ -6,7 +6,7 @@
 
 Git is a magical piece of software that allows you to work "together". (Version control system)  
 The code is hosted on a server. (**GitHub** or **GitLab**)  
-You have a copy of everything (**GitHub for Desktop** or **GitKraken** deals with that copy) 
+You have a copy of everything (**GitKraken** deals with that copy) 
 After you change a bit of stuff, you have to **commit** it with GitHub for Desktop. (That's a backup/snapshot)  
 Then, when you are happy with everything, you **push** it to the server. (Upload)  
 After you **pushed** your code to the server, everybody else has to **pull** it. (Download)
