@@ -28,17 +28,36 @@ Here is a nice guide: http://patrickzahnd.ch/blog.html#gitflow
 <br>
 <h2> <a href="https://www.gitkraken.com/"> GitKraken </a> </h2>
 
-### Setting it up
+### Setting it up (Required)
 1. Download it  
 2. Install it
 3. Sign in using your GitHub account OR create a GitKraken account
 
+### Setting up the ssh key (Required)
+1. Open GitKraken
+2. `File`
+3. `Preferences` (Ctrl+,)
+4. `Authentication`
+5. Switch to the `General` tab
+6. Press on the green `Generate` button (Generate new Private/Public key)
+7. Copy your public key
+![Imgur](https://i.imgur.com/IfdtTud.png)
+
+8. Go to https://github.com/settings/keys 
+9. Press on the green `New SSH key` button
+10. Give it a title and paste the SSH key
+
+
+
+
+
 ### Cloning a repository
 
-1. Get the link to the remote repository:
+1. Get the **ssh** link to the remote repository:
    1. Go to the repository on GitHub
    2. Press on `Clone or Download` (Green button)
-   3. Copy that link
+   3. `Use SSH`
+   4. Copy that link
 2. Open GitKraken
 3. Press on `File`
 4. `Clone Repo` (Ctrl+N)
