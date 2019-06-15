@@ -6,7 +6,7 @@ Git is a "version control system". It tells you what files changed, who changed 
 GitHub is a website for *hosting* projects that *use* git.
 
 ## Git Terminology
-`Repository`: A project  
+`Repository`: A project. It has a lot of little commits.  
 `Commit`: A checkpoint. You can see what files were changed and a little message written by the person who changed them.  
 `Pull`: Download the project to your PC  
 `Push`: Upload the project  
