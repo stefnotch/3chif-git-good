@@ -28,7 +28,7 @@ It looks kinda like this:
 Here is a nice guide: http://patrickzahnd.ch/blog.html#gitflow
 
 ## [GitHub](https://github.com/)
-Make sure that youo have a GitHub account
+Make sure that you have a GitHub account
 
 ## [GitKraken](https://www.gitkraken.com/)
 
