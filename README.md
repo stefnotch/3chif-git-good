@@ -27,16 +27,17 @@ It looks kinda like this:
 
 Here is a nice guide: http://patrickzahnd.ch/blog.html#gitflow
 
+## [GitHub](https://github.com/)
+Make sure that youo have a GitHub account
 
-<br>
-<h2> <a href="https://www.gitkraken.com/"> GitKraken </a> </h2>
+## [GitKraken](https://www.gitkraken.com/)
 
-### Setting it up (Required)
+### Setting it up
 1. Download it  
 2. Install it
-3. Sign in using your GitHub account OR create a GitKraken account
+3. Sign in using your GitHub account
 
-### Setting up the ssh key (Required)
+### Setting up the ssh key
 1. Open GitKraken
 2. `File`
 3. `Preferences` (Ctrl+,)
