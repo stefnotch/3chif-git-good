@@ -1,15 +1,18 @@
 # 3CHIF Git Good
 
 ## What is Git?
-> Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. -- Wikipedia
+Git is a "version control system". It tells you what files changed, who changed them and why they changed it.
 
+GitHub is a website for *hosting* projects that *use* git.
 
-Git is a magical piece of software that allows you to work "together". (Version control system)  
-The code is hosted on a server. (**GitHub** or **GitLab**)  
-You have a copy of everything (**GitKraken** deals with that copy) 
-After you change a bit of stuff, you have to **commit** it with GitHub for Desktop. (That's a backup/snapshot)  
-Then, when you are happy with everything, you **push** it to the server. (Upload)  
-After you **pushed** your code to the server, everybody else has to **pull** it. (Download)
+## Git Terminology
+`Repository`: A project
+`Commit`: A checkpoint. You can see what files were changed and a little message written by the person who changed them.
+`Pull`: Download the project to your PC
+`Push`: Upload the project
+
+`Branch`: <TODO> The default one is the master branch.
+
 
 <br>
 
