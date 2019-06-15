@@ -1,4 +1,4 @@
-# 3CHIF Git Good
+# Git Good
 
 ## What is Git?
 Git is a "version control system". It tells you what files changed, who changed them and why they changed it.
@@ -6,10 +6,10 @@ Git is a "version control system". It tells you what files changed, who changed 
 GitHub is a website for *hosting* projects that *use* git.
 
 ## Git Terminology
-`Repository`: A project
-`Commit`: A checkpoint. You can see what files were changed and a little message written by the person who changed them.
-`Pull`: Download the project to your PC
-`Push`: Upload the project
+`Repository`: A project  
+`Commit`: A checkpoint. You can see what files were changed and a little message written by the person who changed them.  
+`Pull`: Download the project to your PC  
+`Push`: Upload the project  
 
 `Branch`: <TODO> The default one is the master branch.
 
