@@ -62,11 +62,10 @@ Here is a nice guide: http://patrickzahnd.ch/blog.html#gitflow
    3. `Use SSH`
    4. Copy that link
 2. Open GitKraken
-3. Press on `File`
+3. Press on `File` in the top left corner
 4. `Clone Repo` (Ctrl+N)
 5. Paste the link
-6. ???
-7. Profit
+6. `Clone the repo!`
 
 ### The Interface
 ![Imgur](https://i.imgur.com/6VU34r0.png)
